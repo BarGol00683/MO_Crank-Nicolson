@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\bartłomiej\desktop\mo\source.cpp(352): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\bartłomiej\desktop\mo\source.cpp(353): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Project6.vcxproj -> C:\Users\Bartłomiej\Desktop\MO\Debug\Project6.exe
